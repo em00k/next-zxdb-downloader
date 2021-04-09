@@ -4,8 +4,6 @@ Next ZXDB-dl search v0.12 - em00k 06/04/21
 ------------------------------------------
 
 Big props to Remy for his .http, which was influenced by Nihirash's NextExplorer. 
-httpfile was a modified fork of httpbank for use with NextZXDB, which is no longer 
-needed.
 
 Without Remy's work this would not be possible. https://github.com/remy/next-http
 
