@@ -5,7 +5,13 @@ Big props to Remy for his .http, which was influenced by Nihirash's NextExplorer
 httpfile was a modified fork of httpbank for use with NextZXDB, which is no longer 
 needed.
 
+Without Remy's work this would not be possible. https://github.com/remy/next-http
+
 Thanks to D-Rimron Soutter for supplying backend magic and never ending support. 
+
+Note this is an EARLY beta, it my crash, it might fail to download etc etc. Best 
+results have been with a FAST SD card (class10). As time goes on things will 
+improve however for now its great fun to use. 
 
 How to use:
 
@@ -23,12 +29,13 @@ once, each power on the esp should automatically re-connect.
 - Launch zxdbloader.bas
 
 - If connection is successful you should see a search prompt. Enter a search term 
+
 to find result. eg manic*miner 
 
 You can then select a file to download or search for a new term. 
 
 The search works with "starts with", all spaces must be replace with an
-asterix, eg : "target renegade" should be entered as "target*renengade*
+asterix, eg : "target renegade" should be entered as "target\*renengade"
 
 zxdb-dl can than lauch your download if preffered, or you can choose to do another
 seach. 
