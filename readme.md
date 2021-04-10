@@ -3,11 +3,10 @@
 Next ZXDB-dl search v0.12 - em00k 06/04/21
 ------------------------------------------
 
-Big props to Remy for his .http, which was influenced by Nihirash's NextExplorer. 
-
-Without Remy's work this would not be possible. https://github.com/remy/next-http
-
-Thanks to D-Rimron Soutter for supplying backend magic and never ending support. 
+Massive thanks to Remy Sharp for his brilliant .http (https://github.com/remy/next-http) 
+which without none of this would be possible along with his ZXDB API proxy & 
+D Xalior Rimron-Soutter for his awesome backend support, scripting and hosting with 
+NextBestNetwork https://www.nextbestnetwork.com/wos/
 
 Note this is an EARLY beta, it my crash, it might fail to download etc etc. Best 
 results have been with a FAST SD card (class10). As time goes on things will 
