@@ -1,4 +1,4 @@
-Massive thanks to Remy Sharp for his brilliant .http (https://github.com/remy/next-http) which without none of this would be possible along with his ZXDB API proxy
+Massive thanks to Remy Sharp for his brilliant .http (https://github.com/remy/next-http) which without any of this would not be possible along with his ZXDB API proxy
 
 
 D Xalior Rimron-Soutter for his awesome backend support, scripting and hosting with NextBestNetwork https://www.nextbestnetwork.com/wos/
