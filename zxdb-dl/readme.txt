@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/em00k/src-gifs/main/ZXDBNext.png">
 
 Next ZXDB-dl search v0.12 - em00k 06/04/21
+
 ------------------------------------------
+Massive thanks to Remy Sharp for his brilliant .http (https://github.com/remy/next-http) which without any of this would not be possible along with his ZXDB API proxy
 
-Big props to Remy for his .http, which was influenced by Nihirash's NextExplorer. 
+D Xalior Rimron-Soutter for his awesome backend support, scripting and hosting with NextBestNetwork (https://www.nextbestnetwork.com/wos/)
 
-Without Remy's work this would not be possible. https://github.com/remy/next-http
-
-Thanks to D-Rimron Soutter for supplying backend magic and never ending support. 
+Boriel for his ZX Basic Compiler which the browser was written in. (https://github.com/boriel/zxbasic)
 
 Note this is an EARLY beta, it my crash, it might fail to download etc etc. Best 
 results have been with a FAST SD card (class10). As time goes on things will 
