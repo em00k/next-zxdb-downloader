@@ -1,8 +1,9 @@
 Massive thanks to Remy Sharp for his brilliant .http (https://github.com/remy/next-http) which without any of this would not be possible along with his ZXDB API proxy
 
 
-D Xalior Rimron-Soutter for his awesome backend support, scripting and hosting with NextBestNetwork https://www.nextbestnetwork.com/wos/
+D Xalior Rimron-Soutter for his awesome backend support, scripting and hosting with NextBestNetwork (https://www.nextbestnetwork.com/wos/)
 
+Boriel for his ZX Basic Compiler with the browser was written in. (https://github.com/boriel/zxbasic)
 
 <img src="https://raw.githubusercontent.com/em00k/src-gifs/main/ZXDBNext.png">
 
