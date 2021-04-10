@@ -7,7 +7,7 @@ Massive thanks to Remy Sharp for his brilliant .http (https://github.com/remy/ne
 
 D Xalior Rimron-Soutter for his awesome backend support, scripting and hosting with NextBestNetwork (https://www.nextbestnetwork.com/wos/)
 
-Boriel for his ZX Basic Compiler which the browser was written in. (https://github.com/boriel/zxbasic)
+Boriel for his ZX Compiler which the browser was written in. (https://github.com/boriel/zxbasic)
 
 Note this is an EARLY beta, it my crash, it might fail to download etc etc. Best 
 results have been with a FAST SD card (class10). As time goes on things will 
