@@ -17,16 +17,16 @@ How to use:
 
 Copy the two folders to the root of your Next SD card : 
 
-  zxdb-dl 
-  dot 
+ - zxdb-dl 
+ - dot 
 
 Connect to your wifi using the wifi.bas supplied on the next distro this can 
 be found in demos\esp\wifi2.bas - note you only need to configure your wifi
 once, each power on the esp should automatically re-connect. 
 
-- Using the browser, Go into the zxdb folder 
+- Using the browser, Go into the zxdb-dl folder 
 
-- Launch zxdbloader.bas
+- Launch zxdb-loader.bas
 
 - If connection is successful you should see a search prompt. Enter a search term 
 
