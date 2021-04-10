@@ -3,7 +3,7 @@ Massive thanks to Remy Sharp for his brilliant .http (https://github.com/remy/ne
 
 D Xalior Rimron-Soutter for his awesome backend support, scripting and hosting with NextBestNetwork (https://www.nextbestnetwork.com/wos/)
 
-Boriel for his ZX Basic Compiler with the browser was written in. (https://github.com/boriel/zxbasic)
+Boriel for his ZX Basic Compiler which the browser was written in. (https://github.com/boriel/zxbasic)
 
 <img src="https://raw.githubusercontent.com/em00k/src-gifs/main/ZXDBNext.png">
 
