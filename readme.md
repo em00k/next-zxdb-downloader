@@ -7,7 +7,7 @@ Boriel for his ZX Basic Compiler which the browser was written in. (https://gith
 
 <img src="https://raw.githubusercontent.com/em00k/src-gifs/main/ZXDBNext.png">
 
-Next ZXDB-dl search v0.12 - em00k 06/04/21
+Next ZXDB-dl search
 ------------------------------------------
 
 Note this is an EARLY beta, it my crash, it might fail to download etc etc. Best 
@@ -46,6 +46,11 @@ these can happen for a number of reasons and hopefully as time goes on this will
 improve. 
 
 em00k
+
+
+0.15	08/04/21
+- fixed some searching bugs when results were empty 
+
 
 0.12    07/04/21
 

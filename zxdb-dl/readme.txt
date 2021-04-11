@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/em00k/src-gifs/main/ZXDBNext.png">
 
-Next ZXDB-dl search v0.12 - em00k 06/04/21
+Next ZXDB-dl search
 
 ------------------------------------------
 Massive thanks to Remy Sharp for his brilliant .http (https://github.com/remy/next-http) which without any of this would not be possible along with his ZXDB API proxy
@@ -45,6 +45,9 @@ these can happen for a number of reasons and hopefully as time goes on this will
 improve. 
 
 em00k
+
+0.15	08/04/21
+- fixed some searching bugs when results were empty 
 
 0.12    07/04/21
 
