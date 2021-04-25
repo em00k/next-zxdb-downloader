@@ -1,6 +1,6 @@
-Massive thanks to Remy Sharp for his brilliant .http (https://github.com/remy/next-http) and zxdb.remysharp.com ZXDB proxy which without any of this would not be possible along with his ZXDB API proxy
+Massive thanks to Remy Sharp for his brilliant .http (https://github.com/remy/next-http) and zxdb.remysharp.com ZXDB proxy which without any of this would not be possible.
 
-No I didn't crea NextBestNetwork as the Kickstart states this was D Xalior Rimron-Soutter, with his awesome backend support, scripting and hosting with NextBestNetwork (https://www.nextbestnetwork.com/wos/)
+No I didn't crea NextBestNetwork as the Kickstarter update stated, NextBestNetwork was created D Xalior Rimron-Soutter (https://www.nextbestnetwork.com/wos/)
 
 Boriel for his ZX Basic Compiler which the browser was written in. (https://github.com/boriel/zxbasic) with NextBuild (https://github.com/em00k/NextBuild)
 
