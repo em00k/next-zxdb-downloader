@@ -49,9 +49,21 @@ improve.
 em00k
 
 
-0.15	08/04/21
-- fixed some searching bugs when results were empty 
+em00k
 
+0.50	30/04/21
+- Tries to resolve empty pages
+- shows required machine type
+- faster again
+- bignex format
+- splash screen 
+- if http doesn't exist its copied to c:/dot/http 
+
+0.24	11/04/21
+- can now page results with cursor left / right
+- change download directory with #cd [path]
+- faster results 
+- other fixes ....
 
 0.12    07/04/21
 
