@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/em00k/src-gifs/main/ZXDBNext.png">
 
-Next ZXDB-dl search v0.50 - em00k 28/04/21
+Next ZXDB-dl search v0.96 - em00k 19/05/21
 ------------------------------------------
 
 Big props to Remy for his .http, which was influenced by Nihirash's NextExplorer. 
@@ -48,7 +48,7 @@ improve.
 
 em00k
 
-0.95    20/05/21
+0.96    19/05/21
 
 - Lots of fixes too many to mention 
 - uses v1 of http now

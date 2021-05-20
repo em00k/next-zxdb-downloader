@@ -49,7 +49,10 @@ improve.
 em00k
 
 
-em00k
+0.96    19/05/21
+
+- Lots of fixes too many to mention 
+- uses v1 of http now
 
 0.50	30/04/21
 - Tries to resolve empty pages
