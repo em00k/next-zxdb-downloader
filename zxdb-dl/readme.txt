@@ -48,6 +48,12 @@ improve.
 
 em00k
 
+0.95    20/05/21
+
+- Lots of fixes too many to mention 
+- uses v1 of http now
+
+
 0.50	30/04/21
 - Tries to resolve empty pages
 - shows required machine type
