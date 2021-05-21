@@ -11,9 +11,7 @@ Boriel for his ZX Basic Compiler which the browser was written in. (https://gith
 Next ZXDB-dl search
 ------------------------------------------
 
-Note this is an EARLY beta, it my crash, it might fail to download etc etc. Best 
-results have been with a FAST SD card (class10). As time goes on things will 
-improve however for now its great fun to use. 
+If you get corruption when loading and you had a previous version try deleting c:\sys\zxdb.cfg
 
 How to use:
 
@@ -52,7 +50,7 @@ em00k
 0.96    19/05/21
 
 - Lots of fixes too many to mention 
-- uses v1 of http now
+- uses v1 of http now with bank rolling so fixes slow SD cards 
 
 0.50	30/04/21
 - Tries to resolve empty pages
